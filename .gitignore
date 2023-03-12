@@ -36,3 +36,4 @@ mvnw
 mvnw.cmd
 .mvn
 .idea
+.mvn/wrapper
